@@ -1,11 +1,11 @@
 # Project Upwork
-Build a webscraping portfolio based on Upwork jobs.
+Build a web scraping portfolio based on Upwork jobs.
 
-I hope it will increase my reputation on Upwork and solve the experience-work dilemma.
+I started this to make myself more attractive to clients on Upwork and gain real-world experience. Essentially, I take on job descriptions on Upwork as personal projects.
 
 ## Projects
 
 ### Southwark Houses Scraper
 [Job link](https://www.upwork.com/jobs/~01c861c72b750458ce)
 
-Video
+[Video demonstration](https://youtu.be/hZaLuh89caA)
