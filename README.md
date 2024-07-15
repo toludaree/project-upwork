@@ -9,3 +9,6 @@ I started this to make myself more attractive to clients on Upwork and gain real
 [Job link](https://www.upwork.com/jobs/~01c861c72b750458ce)
 
 [Video demonstration](https://youtu.be/hZaLuh89caA)
+
+### Next SpaceFlight Scraper
+[Job Link](https://www.upwork.com/jobs/~01f82febe982663029)
